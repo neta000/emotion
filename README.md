@@ -1,2 +1,2 @@
 # emotion
- emotion_detection
+ emotion_detection_app
