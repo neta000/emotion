@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                         final_detected_emotion = emotion_list[i];
                     }
                 }
-                outputNumber.setText(final_detected_emotion + "ffgg");
+                outputNumber.setText(final_detected_emotion );
             }
         });
 
